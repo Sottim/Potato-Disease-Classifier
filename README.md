@@ -1,5 +1,8 @@
 # Potato Disease Classifier
-A lot of farmers stuggle with their potato field catching disease. I have used the Kaggle dataset to create a Deep learning model to predict if the potato plant is healthy or has caught with disease mainly : Early Blight and Late Blight. An individual can upload the potato leaf photo and find out the if the plant is healthy or not. 
+A lot of farmers stuggle with their potato field catching disease. I have used the Kaggle dataset to create a Deep learning model to predict if the potato plant is healthy or has caught with disease mainly : Early Blight and Late Blight. An individual can upload the potato leaf photo and find out the if the plant is healthy or if it is affected by the mentioned disease. 
+
+I will deploy my model in Google cloud to this link so that everyone can access it.
+Visit the link: https://potato-disease-classifier-wine.vercel.app/
 
 
 This project is my approach to combine my learning in Web development and concepts of Deep Learning : Convolution Neural Network. 
